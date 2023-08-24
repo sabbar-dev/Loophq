@@ -1,0 +1,112 @@
+.features {
+    padding-top: 81.12px;
+    h2 {
+        font-size: 56px;
+        line-height: 61.5px;
+        font-family: $primary_font;
+        font-weight: 800;
+        color: $primary_color;
+        text-align: center;
+    }
+    .accordion {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        padding: 76.25px 97.91px 90.45px 29.1px;
+        .left-section {
+            max-width: 684.74px;
+            width: 100%;
+            position: relative;
+            .main-image {
+                width: 100%;
+                height: 667.21px;
+                position: absolute;
+                top: 0;
+                left: 0;
+                opacity: 1;
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-position: top left;
+                overflow: visible;
+                img {
+                    width: 100%;
+                    height: 100%;
+                    object-fit: cover;
+                }
+            }
+            .main-image.one {
+                z-index: 4;
+                background-image: url('../images/acc-left-img1.png');
+            }
+            .main-image.two {
+                z-index: 3;
+                background-image: url('../images/acc-left-img1.png');
+            }
+            .main-image.three {
+                z-index: 2;
+                background-image: url('../images/acc-left-img1.png');
+            }
+            .main-image.four {
+                z-index: 1;
+                background-image: url('../images/acc-left-img1.png');
+            }
+        }
+        .right-section {
+            max-width: 607px;
+            width: 100%;
+            li {
+                padding: 23.48px 20px 26.45px 36.66px;
+                background-color: #F7F3FD;
+                border-radius: 16px;
+                margin-bottom: 17px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+                .head {
+                    display: flex;
+                    align-items: center;
+                    img {
+                        width: 35.66px;
+                        height: 35.66px;
+                        margin-right: 18.2px;
+                    }
+                    h6 {
+                        @include heading_six;
+                        color: $primary_color;
+                    }
+                }
+                .hidden-content {
+                    padding-top: 24.17px;
+                    h4 {
+                        @include heading_four;
+                        line-height: 38px;
+                        letter-spacing: -1px;
+                        span {
+                            @include purple_font;
+                        }
+                    }
+                    h6 {
+                        @include heading_six;
+                        font-size: 18px;
+                        line-height: 26px;
+                        margin-top: 8.21px;
+                    }
+                    p {
+                        @include small_text;
+                        line-height: 28px;
+                        margin-top: 11.81px;
+                        span {
+                            @include purple_font;
+                        }
+                    }
+                    a.learn-btn {
+                        @include purple_button;
+                        text-align: center;
+                        margin-top: 29.21px;
+                    }
+                }
+            }
+        }
+    }
+}

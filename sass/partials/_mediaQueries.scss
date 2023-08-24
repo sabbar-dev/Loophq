@@ -1,0 +1,874 @@
+        /* responisve css starts here */
+        
+        @media(max-width:1367px) {
+            #banner .right-section {
+                height: 740px;
+            }
+            .right-section .video {
+                width: 100px;
+                height: 100px;
+                top: 389px;
+                left: 65%;
+            }
+            .right-section .play-btn {
+                width: 100px;
+                height: 100px;
+            }
+            .right-section .play-btn img {
+                width: 75px;
+                height: 75px;
+            }
+            .right-section .play-btn span {
+                font-size: 16px;
+                line-height: 22px;
+            }
+            .right-section .doodle-one {
+                top: -140px;
+            }
+            .right-section video {
+                margin-top: 32px;
+            }
+        }
+        
+        @media(max-width:1199px) {
+            #banner .right-section {
+                height: 660px;
+            }
+            .right-section video {
+                margin-top: 41px;
+            }
+            .banner-inner .left-section {
+                left: 100px;
+                top: 220px;
+            }
+            #about-loop .circles .about-inner .text h3 {
+                font-size: 45px;
+                line-height: 52px;
+            }
+            .optimize .container {
+                padding: 70px 30px 40px 60px;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-1 {
+                right: -20px;
+            }
+            .optimize .list ul li:nth-child(1) {
+                max-width: 270px;
+                margin-bottom: 70px;
+            }
+            .on-point .on-point-inner {
+                padding: 100px 0 100px 30px;
+            }
+            .on-point .on-point-inner .left-sec {
+                max-width: 45%;
+            }
+            .on-point .right-sec {
+                width: 40%;
+            }
+            .on-point .right-sec .video-loop {
+                width: 100%;
+            }
+            .on-point .right-sec .video-loop img.bell-img {
+                width: 240px;
+                height: 240px;
+                bottom: 80%;
+            }
+            .on-point .on-point-inner .left-sec .content h3 {
+                font-size: 24px;
+                line-height: 35px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item {
+                max-width: 310px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item .title .text h2 {
+                font-size: 30px;
+                line-height: 60px;
+            }
+        }
+        
+        @media(max-width:1024px) {
+            header .header-inner .navbar ul li {
+                margin-right: 15px;
+            }
+            header .header-inner .navbar .login-section {
+                margin-left: 40px;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-2 {
+                left: -15px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages {
+                padding: 0 15px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item {
+                max-width: 29%;
+            }
+            .integrate .integrate-inner .left-sec {
+                max-width: unset;
+                width: 350px;
+            }
+            .integrate .integrate-inner .right-sec {
+                max-width: unset;
+                flex: 1;
+            }
+            .integrate .integrate-inner {
+                padding: 20px;
+            }
+            .security h2 {
+                font-size: 50px;
+                line-height: 60px;
+            }
+            #pricing .circles .pricing-inner .title-text h2 {
+                font-size: 50px;
+                line-height: 60px;
+            }
+            footer .footer-inner .footer-logo {
+                margin-bottom: 15px;
+            }
+        }
+        
+        @media(max-width:991px) {
+            .video-popup .video {
+                width: 750px;
+                height: 460px;
+            }
+            header .logo {
+                width: 80px;
+            }
+            header .header-inner .navbar ul li {
+                margin-right: 10px;
+            }
+            header .header-inner .navbar ul li a {
+                font-size: 14px;
+                line-height: 20px;
+            }
+            header .header-inner .navbar .login-section {
+                margin-left: 20px;
+            }
+            header .header-inner .navbar .login-section a.login {
+                font-size: 15px;
+                line-height: 21px;
+                margin-right: 15px;
+            }
+            header .header-inner .navbar .login-section a.trial-btn {
+                font-size: 14px;
+                line-height: 20px;
+            }
+            .banner-inner .left-section {
+                top: 160px;
+                max-width: 350px;
+                left: 50px;
+                position: relative;
+            }
+            .banner-inner .left-section h1 {
+                font-size: 40px;
+                line-height: 55px;
+            }
+            .banner-inner .left-section h5 {
+                font-size: 20px;
+                line-height: 22px;
+                margin-top: 15px;
+            }
+            #banner .right-section {
+                margin-top: -200px;
+                height: auto;
+            }
+            .right-section .video {
+                top: 90px;
+            }
+            .right-section .video .video-wrapper {
+                top: 48%;
+            }
+            .right-section {
+                height: auto;
+            }
+            .right-section .play-btn img {
+                width: 75%;
+                height: 75%;
+            }
+            #about-loop .circles {
+                padding: 0 15px;
+            }
+            #about-loop .circles .apps-video {
+                width: 730px;
+                height: 400px;
+                bottom: -20px;
+            }
+            #about-loop .circles .about-inner {
+                padding-top: 70px;
+                padding-bottom: 360px;
+            }
+            #about-loop .circles .about-inner .image-section {
+                width: 100%;
+            }
+            #about-loop .circles .about-inner .image-section .images .image {
+                width: 70px;
+                height: 70px;
+            }
+            #about-loop .circles .about-inner .text h3 {
+                font-size: 35px;
+                line-height: 45px;
+            }
+            #about-loop .circles .apps-video .about-video {
+                width: 412px;
+                height: 265px;
+                top: 50px;
+                left: 155px;
+            }
+            .optimize .container {
+                padding: 20px;
+            }
+            .optimize .upper-sec .left-sec .content h3 {
+                font-size: 25px;
+                line-height: 32px;
+            }
+            .optimize .upper-sec .left-sec .content h6 {
+                margin-top: 0;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-3 {
+                bottom: -110px;
+            }
+            .integrate .integrate-inner .right-sec .content h3 {
+                font-size: 25px;
+                line-height: 35px;
+            }
+            .security h2 {
+                font-size: 35px;
+                line-height: 45px;
+            }
+            #pricing .circles .pricing-inner {
+                padding-top: 160px;
+                padding-bottom: 80px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item {
+                max-width: 45%;
+                margin-bottom: 20px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item.zoomed-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item.zoomed-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item.zoomed-in {
+                max-width: 45%;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item.zoomed-in ul,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item.zoomed-in ul,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item.zoomed-in ul {
+                margin-top: 5px;
+                padding-top: 20px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item.zoomed-in a.loop-me-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item.zoomed-in a.loop-me-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item.zoomed-in a.loop-me-in {
+                margin-top: 50px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item .title .text h2 {
+                letter-spacing: -1.5px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages p,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages p,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages p {
+                max-width: 90%;
+            }
+            #productivity .productivity-inner {
+                padding: 0px 15px 30px;
+            }
+            #productivity .productivity-inner h2 {
+                font-size: 40px;
+                line-height: 50px;
+            }
+            footer .footer-inner {
+                padding: 20px;
+            }
+        }
+        
+        @media(max-width:767px) {
+            .video-popup .video {
+                width: 570px;
+                height: 360px;
+            }
+            header .menu-btn {
+                display: block;
+                margin-right: 20px;
+            }
+            .menu-btn a span {
+                width: 30px;
+                height: 3px;
+                margin-bottom: 5px;
+                background: #212529;
+                display: block;
+            }
+            .menu-btn a span:last-child {
+                margin-bottom: 0;
+            }
+            header .header-inner .navbar-wrapper {
+                flex: unset;
+                position: fixed;
+                top: -10px;
+                left: -4px;
+                width: 102%;
+                height: 100vh;
+                background: rgba(0, 0, 0, 0.4);
+                opacity: 0;
+                visibility: hidden;
+            }
+            header .header-inner .navbar {
+                width: 85%;
+                position: absolute;
+                top: 0;
+                left: -100%;
+                background-color: #fff;
+                padding: 60px 35px 35px 40px;
+                height: 100vh;
+                transition: all ease .3s;
+            }
+            header .header-inner .navbar ul {
+                display: block;
+                justify-content: unset;
+                align-items: unset;
+                flex-wrap: unset;
+            }
+            header .header-inner .navbar ul li {
+                margin-right: 0px;
+            }
+            header .header-inner .navbar ul .logo {
+                display: block;
+                margin-bottom: 40px;
+            }
+            header {
+                padding: 24px 30px;
+            }
+            #banner .right-section {
+                max-width: 100%;
+                margin-top: 0;
+                position: absolute;
+                top: 100px;
+                height: 435px;
+                overflow: hidden;
+            }
+            .right-section .video {
+                left: 50%;
+                transform: translateX(-50%);
+                z-index: 1;
+                top: 55px;
+            }
+            #banner .right-section>video {
+                transform: scale(1.4);
+                position: relative;
+                left: -18%;
+            }
+            .right-section .video .video-wrapper {
+                height: 88%;
+                top: 87px;
+                border-radius: 8px;
+            }
+            .right-section .doodle-one,
+            .right-section .doodle-two,
+            .right-section .doodle-three {
+                display: none;
+            }
+            .banner-inner .left-section {
+                position: static;
+                margin-top: 552px;
+                padding: 0 37px 66px;
+                max-width: 100%;
+                text-align: center;
+            }
+            .banner-inner .left-section::after {
+                content: unset;
+            }
+            .banner-inner .left-section .btn-wrapper {
+                max-width: 100%;
+            }
+            .banner-inner .left-section .btn-wrapper a.loop-me-in {
+                margin: 0 auto;
+            }
+            #about-loop .circles .about-inner .image-section .images .image {
+                width: 65px;
+                height: 65px;
+            }
+            #about-loop .circles .about-inner {
+                padding-bottom: 420px;
+            }
+            #about-loop .circles .apps-video {
+                width: 775px;
+                bottom: 5px;
+            }
+            #about-loop .circles .apps-video img.dkp {
+                display: none;
+            }
+            #about-loop .circles .apps-video img.mbl {
+                display: block;
+            }
+            #about-loop .circles .apps-video .about-video {
+                width: 480px;
+                height: 308px;
+                top: 30px;
+                left: 150px;
+            }
+            .optimize {
+                position: relative;
+                padding-bottom: 285px;
+            }
+            .optimize .container {
+                padding: 20px 40px;
+            }
+            .optimize .upper-sec {
+                flex-wrap: wrap;
+                padding-bottom: 40px;
+            }
+            .optimize .upper-sec .left-sec {
+                max-width: 100%;
+            }
+            .optimize .upper-sec .right-sec {
+                max-width: 100%;
+                margin-top: 50px;
+            }
+            .optimize .list ul li {
+                max-width: 100% !important;
+                min-height: 140px;
+                margin-bottom: 10px !important;
+            }
+            .optimize .list ul li p {
+                margin-top: 5px;
+            }
+            .optimize .list ul li:before {
+                height: 70px;
+                top: 54px;
+            }
+            .optimize .list ul li:after {
+                top: 54px;
+            }
+            .optimize h6 {
+                padding-top: 10px;
+            }
+            .optimize .upper-sec .right-sec {
+                position: absolute;
+                left: 50%;
+                transform: translateX(-50%);
+                bottom: 0;
+                max-width: 95%;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-1 {
+                right: -10px;
+            }
+            .integrate {
+                padding: 100px 40px 0;
+            }
+            .integrate .integrate-inner .left-sec {
+                max-width: 100%;
+                padding-top: 40px;
+                margin: 0 auto;
+                order: 2;
+            }
+            .integrate .integrate-inner .right-sec {
+                max-width: 100%;
+                flex: auto;
+            }
+            .integrate .integrate-inner .right-sec .content a.loop-me-in {
+                display: none;
+            }
+            .on-point .on-point-inner {
+                padding: 100px 20px 550px;
+            }
+            .on-point .on-point-inner .left-sec {
+                max-width: 100%;
+            }
+            .on-point .right-sec {
+                bottom: 350px;
+                top: unset;
+                width: 100%;
+            }
+            .on-point .right-sec .video-loop img.bell-img {
+                left: 50%;
+                transform: translateX(-50%) !important;
+                bottom: 93%;
+            }
+            .security {
+                padding: 0 40px;
+            }
+            .pricing-inner {
+                padding: 0 40px;
+            }
+            #pricing .circles .pricing-inner {
+                padding-top: 160px;
+                padding-bottom: 100px;
+            }
+            #pricing .circles .pricing-inner .title-text h5 span {
+                background-color: transparent;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages {
+                margin: 50px -35px 0;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item {
+                max-width: 100%;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item.zoomed-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item.zoomed-in,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item.zoomed-in {
+                max-width: 100%;
+                margin-top: 0;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #business .middle {
+                margin-top: 0;
+            }
+            footer .footer-inner .footer-logo {
+                max-width: 100%;
+                text-align: center;
+            }
+            footer .footer-inner .footer-logo .logo {
+                margin: 0 auto;
+            }
+            footer .footer-inner .footer-menu .list {
+                max-width: 100% !important;
+                text-align: center;
+            }
+            footer .footer-inner .footer-menu .list.menu {
+                display: none;
+            }
+            footer .footer-inner .footer-menu .list.learn-more {
+                display: block;
+            }
+            footer .footer-inner .footer-menu .list.learn-more h6 {
+                display: none;
+            }
+            footer .footer-inner .footer-menu .list.learn-more ul {
+                max-width: 100%;
+                margin-top: 0;
+            }
+            footer .footer-inner .footer-menu .list.contact h6 {
+                display: none;
+            }
+            //header css starts here
+            header .header-inner .navbar-wrapper.navbarshow {
+                opacity: 1;
+                visibility: visible;
+            }
+            header .header-inner .navbar-wrapper.navbarshow .navbar {
+                left: 0;
+            }
+            header .header-inner .navbar .login-section {
+                margin-left: 0;
+                display: block;
+            }
+            header .header-inner .navbar ul li {
+                margin-bottom: 25px;
+            }
+            header .header-inner .navbar ul li a {
+                font-weight: 800;
+                font-size: 20px;
+                line-height: 28px;
+                color: #212529;
+                opacity: 0.8;
+            }
+            header .header-inner .navbar .login-section a.login {
+                font-weight: 800;
+                font-size: 20px;
+                line-height: 28px;
+                opacity: 0.8;
+                width: 100%;
+            }
+            header .header-inner .navbar .login-section a.trial-btn {
+                max-width: 242px;
+                font-weight: 800;
+                font-size: 18px;
+                line-height: 25px;
+                text-align: center;
+                margin: 130px auto 0;
+                display: table;
+            }
+            header .header-inner {
+                justify-content: unset;
+            }
+            header .header-inner .trail-btn {
+                display: block;
+                margin-left: auto;
+            }
+            header .header-inner .trail-btn a {
+                width: 86px;
+                height: 34px;
+                background: #6516DE;
+                border-radius: 100px;
+                font-weight: 800;
+                font-size: 14px;
+                line-height: 19px;
+                text-align: center;
+                color: #FFFFFF;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+            // header css ends here
+        }
+        
+        @media(max-width:575px) {
+            .video-popup .video {
+                width: 420px;
+                height: 284px;
+            }
+            .video-popup .close-btn {
+                display: none;
+            }
+            .banner-inner .left-section {
+                margin-top: 520px;
+                padding: 0 32px 66px;
+            }
+            .banner-inner .left-section h1 {
+                font-size: 40px;
+                line-height: 44px;
+            }
+            .banner-inner .left-section h5 {
+                line-height: 26px;
+                margin-top: 23px;
+            }
+            .banner-inner .left-section p {
+                font-size: 14px;
+                line-height: 22px;
+                margin-top: 12px;
+            }
+            .banner-inner .left-section .btn-wrapper {
+                margin-top: 26px;
+            }
+            .banner-inner .left-section .btn-wrapper a.loop-me-in {
+                max-width: 295px;
+            }
+            #banner .right-section {
+                height: 410px;
+            }
+            #banner .right-section video {
+                transform: scale(1.7);
+                left: -22%;
+            }
+            .right-section .video {
+                width: 245px;
+            }
+            .right-section .video .video-wrapper {
+                height: 87%;
+                top: 71px;
+            }
+            #about-loop .circles .about-inner {
+                padding-top: 83px;
+            }
+            #about-loop .circles .about-inner .text h3 {
+                font-size: 32px;
+                line-height: 40px;
+                margin-top: 13px;
+            }
+            #about-loop .circles .about-inner .text h6 {
+                font-size: 18px;
+                line-height: 25px;
+                max-width: 298px;
+                margin: 8px auto 0;
+            }
+            #about-loop .circles .about-inner .text p {
+                font-size: 14px;
+                line-height: 22px;
+            }
+            #about-loop .circles .about-inner .image-section h6 {
+                font-size: 18px;
+            }
+            #about-loop .circles .about-inner .image-section .images .image {
+                width: 45px;
+                height: 45px;
+            }
+            #about-loop .circles .apps-video {
+                height: 275px;
+                width: 560px;
+            }
+            #about-loop .circles .about-inner {
+                padding-bottom: 280px;
+            }
+            #about-loop .circles .apps-video .about-video {
+                width: 346px;
+                height: 219px;
+                top: 15px;
+                left: 109px;
+                border-radius: 2px;
+            }
+            .optimize .container {
+                padding: 50px 40px 0;
+            }
+            .optimize .upper-sec .left-sec .head {
+                align-items: flex-start;
+                flex-direction: column;
+            }
+            .optimize .upper-sec .left-sec .head h6 {
+                margin-top: 10px;
+            }
+            .optimize .upper-sec .left-sec .content h3 {
+                font-size: 32px;
+                line-height: 40px;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-1 {
+                width: 140px;
+                height: 89px;
+                top: -40px;
+                object-fit: cover;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-3 {
+                width: 152px;
+                height: 150px;
+                bottom: -58px;
+                right: 0;
+                object-fit: cover;
+            }
+            .optimize .upper-sec .right-sec .video-loop .opt-2 {
+                width: 85px;
+                height: 125px;
+                object-fit: cover;
+            }
+            .optimize .list ul li:before {
+                height: 88px;
+            }
+            .integrate .integrate-inner .right-sec .head {
+                display: block;
+            }
+            .integrate .integrate-inner .right-sec .head h6 {
+                margin-top: 11px;
+            }
+            .integrate .integrate-inner .right-sec .content h3 {
+                font-size: 32px;
+                line-height: 40px;
+            }
+            .integrate .integrate-inner .right-sec .content h3 br {
+                display: none;
+            }
+            .integrate .integrate-inner {
+                padding: 0;
+            }
+            .on-point .on-point-inner .left-sec .head {
+                display: block;
+            }
+            .on-point .on-point-inner .left-sec .head h6 {
+                margin-top: 11px;
+            }
+            .on-point .on-point-inner .left-sec .content h3 {
+                font-size: 32px;
+                line-height: 40px;
+            }
+            .on-point .right-sec .video-loop img.bell-img {
+                width: 152px;
+                height: 152px;
+            }
+            .on-point .right-sec {
+                bottom: 250px;
+            }
+            .on-point .on-point-inner {
+                padding: 100px 20px 390px;
+            }
+            .security h6 {
+                font-size: 18px;
+                line-height: 22px;
+            }
+            .security h2 span {
+                color: #000;
+            }
+            .security h2 {
+                font-size: 32px;
+                line-height: 40px;
+            }
+            .security a.learn-more {
+                padding: 19px 10px;
+            }
+            #pricing .circles .pricing-inner .title-text h2 {
+                font-size: 40px;
+                line-height: 44px;
+            }
+            #pricing .circles .pricing-inner .title-text p {
+                font-size: 14px;
+                line-height: 19px;
+            }
+            #pricing .circles .pricing-inner .title-text h5 {
+                font-size: 17px;
+                line-height: 22px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs .tab button {
+                font-size: 16px;
+                line-height: 26px;
+                padding: 8px 12px;
+            }
+            .pricing-inner {
+                padding: 0 15px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item {
+                margin: 0 15px 15px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages .item .title .text h2,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages .item .title .text h2 {
+                font-size: 38px;
+                line-height: 51px;
+            }
+            #pricing .circles .pricing-inner .price-packages-tabs #individual .price-packages p,
+            #pricing .circles .pricing-inner .price-packages-tabs #students .price-packages p,
+            #pricing .circles .pricing-inner .price-packages-tabs #business .price-packages p {
+                margin-top: 29px;
+            }
+            #productivity .productivity-inner .image {
+                width: 238px;
+                height: 238px;
+            }
+            #productivity .productivity-inner h2 {
+                font-size: 40px;
+                line-height: 44px;
+                max-width: 80%;
+                margin: 48px auto 0;
+            }
+            #productivity .productivity-inner p {
+                font-size: 14px;
+                line-height: 19px;
+                margin: 15px auto 0;
+            }
+            #productivity .productivity-inner a.loop-me-in {
+                max-width: 308px;
+                padding: 20px;
+            }
+        }
+        
+        @media(max-width:425px) {
+            .video-popup .video {
+                width: 320px;
+                height: 220px;
+            }
+            .banner-inner .left-section {
+                margin-top: 485px;
+            }
+            #banner .right-section {
+                height: 365px;
+            }
+            .right-section .video .video-wrapper {
+                height: 87%;
+                top: 64px;
+            }
+            #banner .right-section video {
+                transform: scale(1.8);
+                left: -26%;
+            }
+            #about-loop .circles .about-inner .image-section .images .image {
+                width: 40px;
+                height: 40px;
+            }
+            .security .image {
+                width: 235px;
+                height: 235px;
+                margin: 0 auto;
+            }
+            #pricing .circles .pricing-inner {
+                padding-bottom: 115px;
+            }
+        }
+        /* responisve css ends here */
